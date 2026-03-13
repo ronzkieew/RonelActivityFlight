@@ -95,9 +95,9 @@
                     string newDestination = Console.ReadLine().Trim();
 
                     Console.Write("Enter Airline Name: ");
-                    string airline = Console.ReadLine().Trim();
+                    string newAirline = Console.ReadLine().Trim();
 
-                    flights.Add(new string[] { newOrigin, newDestination, airline });
+                    flights.Add(new string[] { newOrigin, newDestination, newAirline });
                     Console.WriteLine("\nFlight added succesfully to the system!");
                 }
 
