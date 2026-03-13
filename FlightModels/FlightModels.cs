@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RonelActivityFlight.FlightModels
 {
-    internal class Class1
+    internal class FlightModels
     {
     }
 }

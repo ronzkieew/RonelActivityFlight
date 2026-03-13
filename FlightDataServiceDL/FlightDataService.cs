@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RonelActivityFlight.FlightAppService
+namespace RonelActivityFlight.FlightDataService
 {
-    internal class Class1
+    internal class FlightDataService
     {
     }
 }
