@@ -8,6 +8,8 @@ namespace FlightModels
 {
     public class FlightModel
     {
-
+        public string Origin { get; set; }
+        public string Destination { get; set; }
+        public string Airline { get; set; }
     }
 }

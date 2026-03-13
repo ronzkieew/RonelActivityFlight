@@ -1,4 +1,7 @@
-﻿namespace RonelActivityFlight
+﻿using FlightModels;
+using FlightManagementDataService;
+
+namespace RonelActivityFlight
 {
     internal class Program
     {
